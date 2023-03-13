@@ -1,6 +1,6 @@
 # SailPete
 
-## 🚀 Installation and Setup
+## 🚀 Link
 
 - https://sailpete.vercel.app/
 
@@ -15,6 +15,7 @@ This page was build with the use of following frameworks/libraries and tools:
 - [Hero Icons][heroicons-url]
 - [Framer Motion][framermotion-url]
 - [Form Submit][formsubmit-url]
+- [Vercel][vercel-url]
 
 ## 🪪 Contact
 
@@ -27,3 +28,4 @@ Daniel Rotstein - daniel.rotstein17@gmail.com | +1 (415) 696-0605
 [heroicons-url]: https://heroicons.com/
 [framermotion-url]: https://www.framer.com/motion/
 [formsubmit-url]: https://formsubmit.co/
+[vercel-url]: https://vercel.com/
