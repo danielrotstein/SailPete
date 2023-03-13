@@ -5,7 +5,6 @@ import {
   SunIcon,
   MoonIcon,
 } from "@heroicons/react/24/solid";
-// import Logo from "@/assets/Logo.png";
 import Link from "./Link";
 import { SelectedPage } from "@/shared/types";
 import useMediaQuery from "@/hooks/useMediaQuery";
@@ -59,7 +58,6 @@ const Navbar = ({ isTopOfPage, selectedPage, setSelectedPage }: Props) => {
           <div className={`${flexBetween} w-full gap-16`}>
             {/* LEFT SIDE */}
             <h1 className="cursor-default font-pacifico text-4xl">SailPete</h1>
-            {/* <img alt="logo" src={Logo} /> */}
 
             {/* RIGHT SIDE */}
             {isAboveMediumScreens ? (

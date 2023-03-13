@@ -1,4 +1,3 @@
-import ActionButton from "@/shared/ActionButton";
 import HText from "@/shared/HText";
 import { BenefitType, SelectedPage } from "@/shared/types";
 import {
@@ -7,7 +6,6 @@ import {
   CurrencyDollarIcon,
 } from "@heroicons/react/24/solid";
 import { motion } from "framer-motion";
-import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
 import sailing2 from "@/assets/sailing2.png";
 import Benefit from "./Benefit";
 
